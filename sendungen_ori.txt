@@ -1,0 +1,6 @@
+#Container_ID	Start_Node_ID	End_Node_ID	Order	 Bottom Price	From	To	Release time	Due time	Expected transport time	Priority	Bid price
+1	2	671	1	14931	2	21	1	27	26	2	15031	yes
+2	2	671	1	14931	2	21	1	27	26	-1	14881	yes
+3	2	671	1	14931	2	21	1	27	26	2	15031	bla
+4	2	671	1	14452	3	24	7	34	27	2	14552	no
+5	2	671	1	13655	1	25	11	32	21	4	13855	yes
